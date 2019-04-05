@@ -1,0 +1,6 @@
+/Users/pedromoura/Pedro Moura/Desenvolvimento/DotNet/ConsoleApplication/ConsoleApplication/bin/Debug/ConsoleApplication.exe
+/Users/pedromoura/Pedro Moura/Desenvolvimento/DotNet/ConsoleApplication/ConsoleApplication/bin/Debug/ConsoleApplication.pdb
+/Users/pedromoura/Pedro Moura/Desenvolvimento/DotNet/ConsoleApplication/ConsoleApplication/obj/x86/Debug/ConsoleApplication.csprojAssemblyReference.cache
+/Users/pedromoura/Pedro Moura/Desenvolvimento/DotNet/ConsoleApplication/ConsoleApplication/obj/x86/Debug/ConsoleApplication.csproj.CoreCompileInputs.cache
+/Users/pedromoura/Pedro Moura/Desenvolvimento/DotNet/ConsoleApplication/ConsoleApplication/obj/x86/Debug/ConsoleApplication.exe
+/Users/pedromoura/Pedro Moura/Desenvolvimento/DotNet/ConsoleApplication/ConsoleApplication/obj/x86/Debug/ConsoleApplication.pdb
